@@ -1,0 +1,14 @@
+# Site settings
+title: Rugby Claim - helping clubs be more 
+email: davis@rugbyclaim.com.au
+description: > # this means to ignore newlines until "baseurl:"
+  Helping the rugby insurance claim process with rugby clubs in Australia
+baseurl: " " # the subpath of your site, e.g. /blog/
+url: "http://rugbyclaim.com.au" # the base hostname & protocol for your site
+twitter_username: honest2davis
+github_username:  davistui
+permalink: /blog/:title
+
+
+# Build settings
+markdown: kramdown
